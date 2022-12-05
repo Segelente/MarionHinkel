@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marion</h1>
-<h3 align="center">a not so passionate developer from Germany</h3>
+<h3 align="center">a developer from Germany</h3>
 
-- 🔭 I’m currently working on **cool private projects**
+- 🔭 I’m currently working on **uni projects**
 
 - 🌱 I’m currently learning **Rust, Kotlin, Python**
 
